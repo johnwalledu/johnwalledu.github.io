@@ -26,3 +26,7 @@ p {
 .center {
   width: 100%;
 }
+img {
+  margin: auto;
+  display: block;
+}
