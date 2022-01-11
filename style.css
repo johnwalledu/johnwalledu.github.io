@@ -16,6 +16,11 @@ body {
   width: 75%
 }
 
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+
 p {
   color: black;
 }
